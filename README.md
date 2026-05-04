@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Miracle+Ugokwe+%F0%9F%91%8B;Agentic+AI+%26+Web3+Engineer;Founder+%40+Mimisco+Technologies;Building+the+Future+of+Autonomous+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Miracle+Ugokwe+%F0%9F%91%8B;Agentic+AI+%26+Web3+Engineer;Data+Analyst+%26+Insight+Builder;IT+Support+%26+Systems+Specialist;Tech+%26+Academic+Researcher;Founder+%40+Mimisco+Technologies" alt="Typing SVG" />
 
 <br/>
 
@@ -21,14 +21,14 @@ const miracle = {
   role:        "CEO & Lead Engineer — Mimisco Technologies & Resources",
   partner:     "MCJEH Digital",
   location:    "Owerri / Port Harcourt, Nigeria",
-  focus:       ["Agentic AI Systems", "Web3 Infrastructure", "Full-Stack Products"],
+  focus:       ["Agentic AI Systems", "Web3 Infrastructure", "Data Analysis", "IT Support", "Tech Research"],
   philosophy:  "Turning complex logic into seamless digital experiences.",
-  openTo:      ["Engineering Roles", "Technical Partnerships", "Consulting"],
+  openTo:      ["Engineering Roles", "Data Roles", "IT Support Roles", "Research Roles", "Consulting"],
 };
 ```
 
-> I architect **autonomous AI workflows** and **high-impact Web3 tools** that solve real-world problems.  
-> As the founder of **Mimisco Technologies**, I build agentic commerce systems, cross-chain financial infrastructure, and AI-powered educational platforms across Nigeria and beyond.
+> I architect **autonomous AI workflows**, **high-impact Web3 tools**, and **data-driven systems** that solve real-world problems.
+> As the founder of **Mimisco Technologies**, I combine engineering, IT infrastructure, data analysis, and academic research to build products and insights that push the boundaries of what technology can do across Nigeria and beyond.
 
 ---
 
@@ -90,6 +90,16 @@ const miracle = {
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-Workflows-00d9ff?style=for-the-badge)
 ![PDF Parsing](https://img.shields.io/badge/PDF-Data_Ingestion-red?style=for-the-badge)
 
+### Data Analysis and Visualization
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### Full-Stack Development
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -100,11 +110,67 @@ const miracle = {
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
+### IT Support and Infrastructure
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-00d9ff?style=for-the-badge)
+![Remote Support](https://img.shields.io/badge/Remote-Support-gray?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/Hardware-Troubleshooting-orange?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 ### System and DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Data Analysis
+
+I apply data analysis to drive decisions in fintech, edtech, and Web3. My workflow spans raw data cleaning, exploratory analysis, visual storytelling, and automated reporting pipelines.
+
+| Area | Tools and Approach |
+|------|--------------------|
+| 📥 Data Wrangling | Python, Pandas, SQL: cleaning, merging, transforming raw datasets |
+| 📉 Exploratory Analysis | NumPy, Matplotlib, Seaborn: pattern discovery and statistical summaries |
+| 📊 Dashboards and Reporting | Power BI, Plotly, Excel: interactive visual reports for stakeholders |
+| 🤖 AI-Augmented Analysis | LLM-powered PDF parsers for structured data extraction from documents |
+| 🔗 On-Chain Analytics | Querying blockchain data to track transaction flows and DeFi metrics |
+
+> Currently applying data analysis inside **ScholarOS** (student performance tracking) and **CopyVestPro** (trade performance metrics and risk scoring).
+
+---
+
+## 🖥 IT Support
+
+I provide hands-on technical support across hardware, software, and network environments. My IT background grounds my engineering work in real-world system reliability and user-facing problem solving.
+
+| Area | Details |
+|------|---------|
+| 🔧 Hardware Support | Diagnosis and repair of desktops, laptops, and peripherals |
+| 🌐 Networking | LAN/WAN setup, TCP/IP configuration, router and switch management |
+| 💻 OS Administration | Windows and Linux (Debian) installation, configuration, and maintenance |
+| 🛡 Security Basics | User access control, antivirus management, basic endpoint hardening |
+| ☁ Remote Support | Remote desktop tools, ticketing systems, and end-user troubleshooting |
+| 🖧 Virtualisation | VirtualBox environments for testing and system isolation |
+
+---
+
+## 🔬 Tech and Academic Research
+
+I engage in structured research across technology and academia, producing analysis that connects real-world systems with theoretical frameworks.
+
+| Research Area | Focus |
+|---------------|-------|
+| 🤖 AI and Automation Research | Agentic workflows, LLM capabilities, autonomous system design patterns |
+| 🔗 Web3 and DeFi Research | Cross-chain protocols, stablecoin mechanisms, decentralised finance models |
+| 📚 Academic Research and Analysis | Literature reviews, structured data analysis, research paper writing |
+| 📊 Tech Trend Analysis | Emerging technology landscapes, market signals, ecosystem mapping |
+| 🎓 EdTech Research | Nigerian academic system gaps, AI-assisted learning methodologies |
+
+> My research feeds directly into product decisions at **Mimisco Technologies**, ensuring every system I build is grounded in evidence and best practices.
 
 ---
 
@@ -142,8 +208,11 @@ I am actively open to the following:
 | Type | Details |
 |------|---------|
 | 🧑‍💻 Engineering Roles | Senior/Lead positions in Web3, AI, or Full-Stack |
+| 📊 Data Roles | Data Analyst, BI Developer, Analytics Engineer |
+| 🖥 IT Support Roles | IT Support Specialist, Systems Administrator, Helpdesk Lead |
+| 🔬 Research Roles | Tech Researcher, Academic Analyst, AI Research Assistant |
 | 🤝 Technical Partnerships | Co-building products with aligned founders |
-| 🎓 Consulting and Advisory | AI automation strategy, blockchain architecture |
+| 🎓 Consulting and Advisory | AI automation strategy, blockchain architecture, data insights |
 | 🌍 Location Preference | Remote-first, open to relocation |
 
 ---
@@ -153,8 +222,8 @@ I am actively open to the following:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miracle-ugokwe)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sir_mimisco)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mimisco4life@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mimisco_dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mimisco-git.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mimisco-git)
 
